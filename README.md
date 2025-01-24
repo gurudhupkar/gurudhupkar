@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi there Im Guruprasad Dhupkar MERN Stack Developer 💻<br><br> Bachelor of Computer Science👨‍🎓<br><br>Working On few New Projects <br><br>Currently Learning Some New Tech Postgres, Prisma 
+Hi there Im Guruprasad Dhupkar MERN Stack Developer 💻<br><br> Bachelor of Computer Science👨‍🎓<br><br>Working On few New Projects <br><br>Currently Learning Some New Tech Nextjs
 
 
 ## 🌐 Socials:
