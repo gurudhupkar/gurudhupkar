@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi there Im Guruprasad Dhupkar MERN Stack Developer 💻<br><br>Master of computer Application student 👨‍🎓<br><br>Working On few New Projects <br><br>Currently Learning Some New tool like Docker
+Hi there Im Guruprasad Dhupkar MERN Stack Developer 💻<br><br>MCA student 👨‍🎓<br><br>Working On few New Projects <br><br>Currently Learning Some New tool like Docker
 
 
 ## 🌐 Socials:
